@@ -1,0 +1,116 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\DELL\OneDrive\Desktop\realtimehealth\realtime\healthmonitor.uvproj
+Project File Date:  04/21/2024
+
+<h2>Output:</h2>
+compiling healthmonitor.c...
+uart.h(65): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+healthmonitor.c(23): warning:  #223-D: function "atoi" declared implicitly
+healthmonitor.c(8): warning:  #550-D: variable "val2" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val3" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val4" was set but never used
+healthmonitor.c(8): warning:  #177-D: variable "k" was declared but never referenced
+healthmonitor.c(9): warning:  #177-D: variable "temp" was declared but never referenced
+healthmonitor.c - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+linking...
+healthmonitor.axf: Error: L6200E: Symbol lcd_cmd_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_data_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_str_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_init multiply defined (by lcd.o and healthmonitor.o).
+Target not created
+Build target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling healthmonitor.c...
+uart.h(65): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+healthmonitor.c(23): warning:  #223-D: function "atoi" declared implicitly
+healthmonitor.c(8): warning:  #550-D: variable "val2" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val3" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val4" was set but never used
+healthmonitor.c(8): warning:  #177-D: variable "k" was declared but never referenced
+healthmonitor.c(9): warning:  #177-D: variable "temp" was declared but never referenced
+compiling lcd.c...
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+linking...
+healthmonitor.axf: Error: L6200E: Symbol lcd_cmd_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_data_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_str_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_init multiply defined (by lcd.o and healthmonitor.o).
+Target not created
+compiling healthmonitor.c...
+uart.h(65): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+healthmonitor.c(23): warning:  #223-D: function "atoi" declared implicitly
+healthmonitor.c(8): warning:  #550-D: variable "val2" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val3" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val4" was set but never used
+healthmonitor.c(8): warning:  #177-D: variable "k" was declared but never referenced
+healthmonitor.c(9): warning:  #177-D: variable "temp" was declared but never referenced
+healthmonitor.c - 0 Error(s), 9 Warning(s).
+compiling healthmonitor.c...
+uart.h(65): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+healthmonitor.c(23): warning:  #223-D: function "atoi" declared implicitly
+healthmonitor.c(8): warning:  #550-D: variable "val2" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val3" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val4" was set but never used
+healthmonitor.c(8): warning:  #177-D: variable "k" was declared but never referenced
+healthmonitor.c(9): warning:  #177-D: variable "temp" was declared but never referenced
+healthmonitor.c - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+linking...
+healthmonitor.axf: Error: L6200E: Symbol lcd_cmd_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_data_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_str_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_init multiply defined (by lcd.o and healthmonitor.o).
+Target not created
+compiling healthmonitor.c...
+uart.h(65): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+healthmonitor.c(23): warning:  #223-D: function "atoi" declared implicitly
+healthmonitor.c(8): warning:  #550-D: variable "val2" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val3" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val4" was set but never used
+healthmonitor.c(8): warning:  #177-D: variable "k" was declared but never referenced
+healthmonitor.c(9): warning:  #177-D: variable "temp" was declared but never referenced
+healthmonitor.c - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+linking...
+healthmonitor.axf: Error: L6200E: Symbol lcd_cmd_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_data_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_str_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_init multiply defined (by lcd.o and healthmonitor.o).
+Target not created
+Build target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling healthmonitor.c...
+uart.h(65): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+healthmonitor.c(23): warning:  #223-D: function "atoi" declared implicitly
+healthmonitor.c(8): warning:  #550-D: variable "val2" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val3" was set but never used
+healthmonitor.c(8): warning:  #550-D: variable "val4" was set but never used
+healthmonitor.c(8): warning:  #177-D: variable "k" was declared but never referenced
+healthmonitor.c(9): warning:  #177-D: variable "temp" was declared but never referenced
+compiling lcd.c...
+lcd.h(10): warning:  #1-D: last line of file ends without a newline
+linking...
+healthmonitor.axf: Error: L6200E: Symbol lcd_cmd_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_data_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_str_write multiply defined (by lcd.o and healthmonitor.o).
+healthmonitor.axf: Error: L6200E: Symbol lcd_init multiply defined (by lcd.o and healthmonitor.o).
+Target not created

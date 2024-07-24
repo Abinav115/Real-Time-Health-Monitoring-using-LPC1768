@@ -1,0 +1,10 @@
+healthmonitor.o: healthmonitor.c
+healthmonitor.o: C:\Keil\ARM\INC\NXP\LPC17xx\lpc17xx.h
+healthmonitor.o: C:\Keil\ARM\RV31\INC\core_cm3.h
+healthmonitor.o: C:\Keil\ARM\RV31\INC\stdint.h
+healthmonitor.o: C:\Keil\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+healthmonitor.o: C:\Keil\ARM\RV31\INC\string.h
+healthmonitor.o: uart.h
+healthmonitor.o: lcd.h
+healthmonitor.o: lcd.c
+healthmonitor.o: lcd.h
